@@ -8,11 +8,7 @@ A [docsify](https://docsify.js.org) plugin that adds colored superscript badges 
 
 ## Preview
 
-```
-├── Query API     ᴺᵉʷ
-├── Export API    ᵀᵉˢᵗ
-└── Detail API    ᴰᵒⁿᵉ
-```
+![preview](preview.png)
 
 Badges appear as small superscript labels before the link text, colored to match their status.
 
