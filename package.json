@@ -1,0 +1,22 @@
+{
+  "name": "docsify-badge",
+  "version": "1.0.0",
+  "description": "Adds colored superscript badges to docsify sidebar links.",
+  "main": "docsify-badge.js",
+  "keywords": [
+    "docsify",
+    "docsify-plugin",
+    "sidebar",
+    "badge"
+  ],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sxin0/docsify-badge.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sxin0/docsify-badge/issues"
+  },
+  "homepage": "https://github.com/sxin0/docsify-badge"
+}
